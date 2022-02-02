@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/jR2kBULbQT0AAAAi/welcome-discord.gif">
+<a href="https://github.com/Behcanto"><img src="https://c.tenor.com/jR2kBULbQT0AAAAi/welcome-discord.gif"></a>
 <div>
 <a href="https://twitter.com/behcanto" target"_blank"><img src="https://img.shields.io/badge/Twitter-c38e70?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/BehCanto" target="_blank"><img src="https://img.shields.io/badge/YouTube-b07d62?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -11,22 +11,24 @@
 
 <h1> 🦋 Sobre mim: </h1>
 
-<img src="https://c.tenor.com/Rh2GZjVhteYAAAAi/tonton-friends-tonton.gif" align="right" width="300px">
+<a href="https://github.com/Behcanto"><img src="https://c.tenor.com/Rh2GZjVhteYAAAAi/tonton-friends-tonton.gif" align="right" width="300px"></a>
 
 <h3 align="justify" > Me chamo Beatriz mas sou mais conhecida como Bia ou Behcanto. Tenho 19 anos e estou fazendo faculdade de ciência da computação no Centro Universitário <a href="https://www.ibmr.br/" target="_blank">IBMR</a> do Rio de Janeiro, RJ. Sempre fui muito apaixonada por tecnologia e arte, mas por alguma razão eu achei por muito tempo que iria ser advogada, ainda bem que caí na real bem rápido. Minha paixão por arte e tecnologia foram adquiridas pela minha mãe que, por ser uma Designer, sempre me incentivou a desenhar e me expressar através dos desenhos, inclusive, minha ilustração de perfil foi feita por mim. E a tecnologia foi incentivada desde cedo com um antigo computador com monitor de tubo em que eu jogava fazenda feliz do Orkut... Bons tempos...</h3>
 
 # 🦋 Estou aprendendo:
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  width="30" height="30"/>
 </div>
 
 
