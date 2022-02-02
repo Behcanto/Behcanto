@@ -18,6 +18,7 @@
 # 🦋 Estou aprendendo:
 
 <div>
+<a href="https://github.com/Behcanto">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
@@ -29,13 +30,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  width="30" height="30"/>
+ </a>
 </div>
 
 
 # 🦋Status:
 
 <div align="center">
+<a href="https://github.com/Behcanto">
 <a href="https://github.com/Behcanto"target="_blank"></a>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behcanto&layout=compact&langs_count=7&theme=onedark"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Behcanto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</a>
 </div>
