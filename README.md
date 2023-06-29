@@ -10,11 +10,11 @@
 </div>
   </div>
 
-<h1> 🍒🌈🍄Sobre mim🌿🌻🦋</h1>
+<h2> 🍒🌈🍄Sobre mim🌿🌻🦋</h2>
 
 <a href="https://github.com/Behcanto"><img src="https://c.tenor.com/Rh2GZjVhteYAAAAi/tonton-friends-tonton.gif" align="right" width="300px"></a>
 
-<h3 align="justify" > Me chamo Beatriz mas sou mais conhecida como Bia ou Behcanto. Tenho 19 anos e estou fazendo Faculdade de Ciência da Computação no Centro Universitário <a href="https://www.ibmr.br/" target="_blank">IBMR</a> do Rio de Janeiro, RJ. Sempre fui muito apaixonada por tecnologia e arte, mas por alguma razão eu achei por muito tempo que iria ser advogada, ainda bem que caí na real bem rápido. Minha paixão por arte e tecnologia foram adquiridas pela minha mãe que, por ser uma Designer, sempre me incentivou a desenhar e me expressar através dos desenhos, inclusive, minha ilustração de perfil foi feita por mim. E a tecnologia foi incentivada desde cedo com um antigo computador com monitor de tubo em que eu jogava "fazenda feliz" do Orkut... Bons tempos...</h3>
+<h5 align="justify" > Me chamo Beatriz mas sou mais conhecida como Bia ou Behcanto. Tenho 19 anos e estou fazendo Faculdade de Ciência da Computação no Centro Universitário <a href="https://www.ibmr.br/" target="_blank">IBMR</a> do Rio de Janeiro, RJ. Sempre fui muito apaixonada por tecnologia e arte, mas por alguma razão eu achei por muito tempo que iria ser advogada, ainda bem que caí na real bem rápido. Minha paixão por arte e tecnologia foram adquiridas pela minha mãe que, por ser uma Designer, sempre me incentivou a desenhar e me expressar através dos desenhos, inclusive, minha ilustração de perfil foi feita por mim. E a tecnologia foi incentivada desde cedo com um antigo computador com monitor de tubo em que eu jogava "fazenda feliz" do Orkut... Bons tempos...</h5>
 
 #
 
