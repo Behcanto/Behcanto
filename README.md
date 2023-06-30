@@ -5,7 +5,7 @@
 <a href="https://twitter.com/behcanto"><img src="https://img.shields.io/badge/Twitter-E9AE82?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCs12WubNmwg1oZBkK7GoapA"><img src="https://img.shields.io/badge/YouTube-EED291?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/behcanto"><img src="https://img.shields.io/badge/Instagram-7DB955?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href ="mailto:beatrizpessoadeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-8a5a44?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href ="mailto:beatrizpessoadeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-9CC0E4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/beatriz-pess%C3%B4a-55898322a/"><img src="https://img.shields.io/badge/Linkedin-774936?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </div>
   </div>
