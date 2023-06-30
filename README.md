@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Behcanto"><img src="[https://c.tenor.com/jR2kBULbQT0AAAAi/welcome-discord.gif](https://photos.google.com/photo/AF1QipN9WCKdbYtHbbzdn2lGXnzPtG4gmKyTa3xz_hyp)"></a>
+<a href="https://github.com/Behcanto"><img src="[https://c.tenor.com/jR2kBULbQT0AAAAi/welcome-discord.gif](https://photos.google.com/photo/AF1QipN9WCKdbYtHbbzdn2lGXnzPtG4gmKyTa3xz_hyp)](https://github.com/Behcanto/Behcanto/blob/main/Imagens/banner.png)" width="100%" height="auto"></a>
   
 <div>
 <a href="https://twitter.com/behcanto"><img src="https://img.shields.io/badge/Twitter-C79470?style=for-the-badge&logo=twitter&logoColor=white"></a>
