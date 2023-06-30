@@ -11,7 +11,6 @@
 </div>
 
 <h2> 🍒🌈🍄Sobre mim🌿🌻🦋</h2>
-
 <a href="https://github.com/Behcanto"><img src="https://c.tenor.com/Rh2GZjVhteYAAAAi/tonton-friends-tonton.gif" align="right" width="300px"></a>
 
 #
