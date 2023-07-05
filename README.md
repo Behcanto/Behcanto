@@ -20,6 +20,6 @@ Me chamo Beatriz, sou uma carioca que cresceu no nordeste, estudante de ciência
 Sempre fui muito apaixonada por tecnologia e arte, mas por alguma razão eu achei por muito tempo que iria ser advogada, ainda bem que caí na real bem rápido. Minha paixão por arte e tecnologia foram adquiridas pela minha mãe que, por ser uma Designer, sempre me incentivou a desenhar e me expressar através dos desenhos, inclusive, minha ilustração de perfil foi feita por mim. E a tecnologia foi incentivada desde cedo com um antigo computador com monitor de tubo em que eu jogava "fazenda feliz" do Orkut... Bons tempos...</h5>
 
 <a href="https://github.com/Behcanto">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=behcanto&show_icons=true&theme=rose" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behcanto&layout=donut&theme=rose" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=behcanto&show_icons=true&theme=rose&langs_count=8&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behcanto&layout=donut&theme=rose&langs_count=8&card_width=320" />
 </a>
