@@ -21,5 +21,5 @@ Sempre fui muito apaixonada por tecnologia e arte, mas por alguma razão eu ache
 
 <a href="https://github.com/Behcanto"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=behcanto&show_icons=true&theme=rose&size_weight=0.5&count_weight=0.5" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behcanto&layout=compact&layout=donut-vertical&theme=rose&size_weight=0.5&count_weight=0.5" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behcanto&layout=compact&layout=donut-vertical&theme=rose" />
 </a>
