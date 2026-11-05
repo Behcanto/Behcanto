@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Behcanto"><img src="https://github.com/Behcanto/Behcanto/blob/main/Imagens/banner.png" width="100%" height="auto"></a>
+<a href="https://github.com/Behcanto"><img src="https://github.com/Behcanto/Behcanto/blob/main/Imagens/bannerBehcanto.png" width="100%" height="auto"></a>
 
 &nbsp;
   
