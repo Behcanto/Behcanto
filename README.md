@@ -18,11 +18,12 @@
 <a href="https://github.com/Behcanto"><img src="https://github.com/Behcanto/Behcanto/blob/main/Imagens/avatar.gif" align="right" width="250px"></a>
 
 <p>
-Me chamo Beatriz, sou uma carioca que cresceu no nordeste, formada em Ciência da Computação   <br>
-e Marketing Digital. Atualmente trabalho como Social Media, com foco em estratégia de conteúdo, <br>
-Analise de tráfego pago e método SEO. Também trabalho com Design Gráfico e identidade visual. <br>
-Além disso, sou ilustradora amadora nas horas vagas, viciada em café e doces e tenho um gato  <br>
-antissocial chamado Harry.
+Me chamo Beatriz, sou uma carioca que cresceu no nordeste, formada em Ciência <br>
+da Computação e Marketing Digital. Atualmente trabalho como Social Media, com <br>
+foco em estratégia de conteúdo, análise de tráfego pago e método SEO. Também <br>
+trabalho com Design Gráfico e identidade visual. Além disso, sou ilustradora <br>
+amadora nas horas vagas, viciada em café e doces e tenho um gato antissocial <br>
+chamado Harry.
 </p>
 
 
