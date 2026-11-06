@@ -15,7 +15,7 @@
 </div>
 
 <h2>★ Sobre mim</h2>
-<a href="https://github.com/Behcanto"><img src="https://github.com/Behcanto/Behcanto/blob/main/Imagens/avatar.gif" align="right" width="250px"></a>
+<a href="https://github.com/Behcanto"><img src="https://github.com/Behcanto/Behcanto/blob/main/Imagens/avatar.gif" align="right" width="300px"></a>
 
 <p>
 Me chamo Beatriz, sou uma carioca que cresceu no nordeste, formada em Ciência <br>
