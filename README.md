@@ -7,20 +7,25 @@
 <a href="https://www.youtube.com/channel/UCs12WubNmwg1oZBkK7GoapA"><img src="https://img.shields.io/badge/YouTube-ecb3d4?style=for-the-badge&logo=youtube&logoColor=black"></a>
 <a href="https://instagram.com/behcanto"><img src="https://img.shields.io/badge/Instagram-ecb3d4?style=for-the-badge&logo=instagram&logoColor=black"></a>
 <a href ="mailto:beatrizpessoadeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-ecb3d4?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="https://www.behance.net/beatrizdocanto"><img src="	https://img.shields.io/badge/-Behance-ecb3d4?style=for-the-badge&logo=behance&logoColor=black"></a>
+<a href="https://www.patreon.com/cw/u25231966"><img src="https://img.shields.io/badge/Patreon-ecb3d4?style=for-the-badge&logo=patreon&logoColor=black"></a>
 <a href="https://www.linkedin.com/in/beatriz-pess%C3%B4a-55898322a/"><img src="https://img.shields.io/badge/Linkedin-ecb3d4?style=for-the-badge&logo=linkedin&logoColor=black"></a>
 <a href="https://twitter.com/behcanto"><img src="https://img.shields.io/badge/Twitter-ecb3d4?style=for-the-badge&logo=twitter&logoColor=black"></a>
 </div>
 </div>
 
 <h2>★ Sobre mim</h2>
-<a href="https://github.com/Behcanto"><img src="https://c.tenor.com/Rh2GZjVhteYAAAAi/tonton-friends-tonton.gif" align="right" width="300px"></a>
+<a href="https://github.com/Behcanto"><img src="https://github.com/Behcanto/Behcanto/blob/main/Imagens/avatar.gif" align="right" width="250px"></a>
 
-<h5>
-Me chamo Beatriz, sou uma carioca que cresceu no nordeste, formada em Ciência da Computação e <br>
-Marketing Digital. Atualmente trabalho como Social Media, com foco em estratégia de conteúdo, <br>
+<p>
+Me chamo Beatriz, sou uma carioca que cresceu no nordeste, formada em Ciência da Computação   <br>
+e Marketing Digital. Atualmente trabalho como Social Media, com foco em estratégia de conteúdo, <br>
 Analise de tráfego pago e método SEO. Também trabalho com Design Gráfico e identidade visual. <br>
 Além disso, sou ilustradora amadora nas horas vagas, viciada em café e doces e tenho um gato  <br>
 antissocial chamado Harry.
-</h5>
+</p>
 
-#
+
+**★ Habilidades:** <br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,py,ps,figma,wordpress,notion&theme=light)](https://skillicons.dev)
